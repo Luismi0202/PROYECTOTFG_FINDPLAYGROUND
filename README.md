@@ -7,3 +7,5 @@ En las cuentas de los jugadores podrás poner que juegos de mesas juegas, cuále
 En las tiendas de cuentas podrás declarar que juegos de mesas se juegan en la tienda, los jugadores que hay (son como los seguidores de una red social básicamente) y además de los posts, podrás tener un chat privado donde todos los jugadores se comunicarán entre ellos. Quizás también interesaría que los posts de los jugadores solo los puedan ver jugadores de las tiendas que sigues y todo vaya conforme una misma comunidad, es decir, en vez de hacer un twitter donde todos ven sus posts, haría algo más parecido a bluesky donde lo que se hace es ver posts de gente dentro de una comunidad que sigues.
 
 Tendría además un buscador de tiendas con google maps y el que lleve cuenta verificada de tienda me gustaría que de alguna forma se verifique que esa persona trabaja en una tienda.
+
+A la hora de desarrollar este proyecto iré siguiendo la metodología SCRUM, apuntando en una cartulina que hay en clases y en un txt las cosas que estoy haciendo, las que están hechas además de las pendientes
