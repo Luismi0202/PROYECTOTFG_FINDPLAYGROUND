@@ -20,7 +20,7 @@ Antes de empezar, me he informado sobre webs similares y he consultado foros y r
 
 ## Estudio de viabilidad técnica
 
-Para el desarrollo usaré principalmente tecnología web, HTML, CSS, Javascript y alguna base de datos tipo Firebase o MySQL, lo que vea más sencillo para la implementación. Tengo conocimiento en estos lenguajes y bases y creo que es viable montar la aplicación con este stack. Además, para el mapa de tiendas usaré la API de Google Maps, que ya tiene buena documentación y ejemplos. Todo el desarrollo lo haré yo, y usaré mi propio ordenador, que cumple los requisitos básicos.
+Para el desarrollo usaré principalmente tecnología web, aprovechando todo lo que estoy estudiando en aplicaciones híbridas, puedo hacer una app con Ionic/Angular para que sirva para pc y android con Android Studio, hecha con kotlin y alguna base de datos tipo Firebase o MySQL, lo que vea más sencillo para la implementación. Tengo conocimiento en estos lenguajes y bases y creo que es viable montar la aplicación con este stack. Además, para el mapa de tiendas usaré la API de Google Maps, que ya tiene buena documentación y ejemplos. Todo el desarrollo lo haré yo, y usaré mi propio ordenador, que cumple los requisitos básicos.
 
 ---
 
@@ -114,3 +114,7 @@ Como lo hago todo yo, me organizo en función de las fases y bloques de tiempo q
 El proyecto está planteado para que no requiera apenas dinero, solo recursos propios. Si la API de Google Maps tuviera coste, intentaría que se mantuviera en el margen gratuito. No hay presupuesto previsto para servidores profesionales ni gastos de personal. Todo se basa en software libre y recursos personales.
 
 ---
+
+## ADVERTENCIA
+
+Esto realmente es un borrador, quizás no sigo a rajatabla lo de aquí, pero es bueno tenerlo para saber como voy a organizarme.
