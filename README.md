@@ -14,7 +14,7 @@ A la hora de desarrollar este proyecto iré siguiendo la metodología SCRUM, apu
 
 ## Recopilación de información
 
-Antes de empezar, me he informado sobre webs similares y he consultado foros y redes sociales de juegos de mesa para ver qué buscan los usuarios y qué suelen ofrecer este tipo de plataformas. También he preguntado a gente que suele frecuentar tiendas y a dueños de tiendas para tener en cuenta sus necesidades y recoger ideas.
+Antes de empezar, me he informado sobre webs similares y he consultado foros y redes sociales de juegos de mesa para ver qué buscan los usuarios y qué suelen ofrecer este tipo de plataformas. También he preguntado a gente que suele frecuentar tiendas y a dueños de tiendas para tener en cuenta sus necesidades y recoger ideas. Además, yo mismo frecuento una tienda que hay en Cádiz llamada "Cristal Oscuro" y sé de antemano lo difícil que es encontrar gente para jugar que no conozcas, te tienen que meter cercanos tuyos y si no tienes es un poco más complicado si te cuesta mucho socializar. Es por eso que he visto un problema y se me ha ocurrido la idea.
 
 ---
 
